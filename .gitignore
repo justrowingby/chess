@@ -1,0 +1,4 @@
+# GitIgnore temp and build files
+
+.DS_Store
+application.macosx
